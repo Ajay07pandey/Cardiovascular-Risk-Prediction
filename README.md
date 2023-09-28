@@ -1,4 +1,7 @@
 # Cardiovascular-Risk-Prediction
+
+![image](https://github.com/Ajay07pandey/Cardiovascular-Risk-Prediction/assets/115704940/fa5d1bb9-07b5-4959-8208-5c24843772c8)
+
 This project aims to predict the 10-year risk of developing coronary heart disease (CHD) using the Cardiovascular Risk Prediction dataset. The dataset contains information on 3,390 individuals with 16 predictor variables and 1 target variable. The variables represent potential demographic, behavioral, and medical risk factors.
 
 ## Problem Statement
